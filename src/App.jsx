@@ -1,2 +1,1 @@
-
-// Full MemoApp code goes here (imported previously)
+// MemoApp Component code will be inserted here manually in the final environment
